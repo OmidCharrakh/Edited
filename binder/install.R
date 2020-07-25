@@ -1,3 +1,8 @@
 install.packages("tidyverse")
 install.packages("rjson")
 install.packages("mlr3")
+install.packages("learnr")
+install.packages("testthat")
+install.packages("remotes")
+library("remotes")
+install_github("datacamp/testwhat")
